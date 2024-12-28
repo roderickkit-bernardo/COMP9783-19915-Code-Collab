@@ -7,7 +7,7 @@ COMP9783-19915 Frontend Developers
 | Bernardo, Roderick      | fb-rb       | Done    |
 | Bojkovski, Anthony      | fb-ab       | Done    |
 | Cadiente, Madison Julia | fb-ca       | Pending |
-| Jazani, Masumeh         | fb-mj       | Pending |
+| Jazani, Masumeh         | fb-mj       | Done    |
 | Kowalczyk, Chris        | fb-ck       | Done    |
 | Laing, Robert           | fb-rl       | Done    |
 | Ratiarson, Edouard      | fb-er       | Pending |
